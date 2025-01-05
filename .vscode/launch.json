@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ClientGui",
+            "request": "launch",
+            "mainClass": "Gui.ClientGui",
+            "projectName": "Chat Anwendung_e36fc577"
+        },
+        {
+            "type": "java",
+            "name": "ServerGui",
+            "request": "launch",
+            "mainClass": "Gui.ServerGui",
+            "projectName": "Chat Anwendung_e36fc577"
+        },
+        {
+            "type": "java",
+            "name": "ClientGui",
+            "request": "launch",
+            "mainClass": "Gui.ClientGui",
+            "projectName": "Meilenstein 3_b205e072"
+        },
+        {
+            "type": "java",
+            "name": "ServerGui",
+            "request": "launch",
+            "mainClass": "Gui.ServerGui",
+            "projectName": "Meilenstein 3_b205e072"
+        },
+        {
+            "type": "java",
+            "name": "ColorfulListExample",
+            "request": "launch",
+            "mainClass": "ColorfulListExample",
+            "projectName": "Test 70_80c01421"
+        },
+        {
+            "type": "java",
+            "name": "ClientGui",
+            "request": "launch",
+            "mainClass": "Gui.ClientGui",
+            "projectName": "Test 70_80c01421"
+        },
+        {
+            "type": "java",
+            "name": "ServerGui",
+            "request": "launch",
+            "mainClass": "Gui.ServerGui",
+            "projectName": "Test 70_80c01421"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Backend.Server",
+            "projectName": "Meilestein 2_cd101717"
+        },
+        {
+            "type": "java",
+            "name": "FileReceiver",
+            "request": "launch",
+            "mainClass": "FileReceiver",
+            "projectName": "Meilestein 2_cd101717"
+        },
+        {
+            "type": "java",
+            "name": "ChangeRoomName",
+            "request": "launch",
+            "mainClass": "Gui.ChangeRoomName",
+            "projectName": "Meilestein 2_cd101717"
+        },
+        {
+            "type": "java",
+            "name": "ClientGui",
+            "request": "launch",
+            "mainClass": "Gui.ClientGui",
+            "projectName": "Meilestein 2_cd101717"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "Gui.Login",
+            "projectName": "Meilestein 2_cd101717"
+        },
+        {
+            "type": "java",
+            "name": "Room",
+            "request": "launch",
+            "mainClass": "Gui.Room",
+            "projectName": "Meilestein 2_cd101717"
+        },
+        {
+            "type": "java",
+            "name": "ServerGui",
+            "request": "launch",
+            "mainClass": "Gui.ServerGui",
+            "projectName": "Meilestein 2_cd101717"
+        },
+        {
+            "type": "java",
+            "name": "SetTime",
+            "request": "launch",
+            "mainClass": "Gui.SetTime",
+            "projectName": "Meilestein 2_cd101717"
+        },
+        {
+            "type": "java",
+            "name": "createRoom",
+            "request": "launch",
+            "mainClass": "Gui.createRoom",
+            "projectName": "Meilestein 2_cd101717"
+        },
+        {
+            "type": "java",
+            "name": "ScrollablePanelExample",
+            "request": "launch",
+            "mainClass": "ScrollablePanelExample",
+            "projectName": "Meilestein 2_cd101717"
+        }
+    ]
+}
